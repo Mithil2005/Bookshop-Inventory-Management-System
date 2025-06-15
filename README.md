@@ -60,4 +60,4 @@ The Bookshop Inventory Management System is a C++ application designed to stream
 4. Exit the program when done.
 
 ## Contributors
-- Sharvani
+- Mithil Sandhineni
